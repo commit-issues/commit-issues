@@ -10,19 +10,18 @@
 
 ---
 
-**Cybersecurity • AI/ML • OSINT **
+**Cybersecurity • AI/ML • OSINT**
 
 I make complex tech accessible, dangerous knowledge digestible, and boring tools actually fun to use.
 
-Consultant. Occasional content creator. Full-time builder — engineering intelligent systems at the collision point of **AI, cybersecurity, and education** — because the people who need these tools most are the ones who were never invited into the room to learn them. 
-That changes here.
+Consultant. Occasional content creator. Full-time builder — engineering intelligent systems at the collision point of **AI, cybersecurity, and education** — because the people who need these tools most are the ones who were never invited to the table. That changes here.
 
-📍 This is my **public learning & portfolio account** — open source, community-driven, and free to fork.  
-🔒 [@sudochef](https://github.com/sudochef) is my pro portfolio — where the serious, private work lives. I wanted to make a public space where we can work and build together.
+📍 This is my **public learning & portfolio account** — open source, community-driven, and feel free to fork me.  
+🔒 [@sudochef](https://github.com/sudochef) is my pro portfolio — where the serious, private work lives. I wanted to create a public space for us all the code and grow together.
 
 ✨ This space exists so you can come here, get inspired, and **go build something.** New projects drop regularly — whether you're learning, leveling up, or just lurking for ideas, you're welcome here. Come back often. Stay curious. **Git Busy.** 🚀
 
-📸 Follow the *contolled* chaos: [@sudochef](https://instagram.com/sudochef) on Instagram & TikTok
+📸 Follow the *controlled* chaos: [@sudochef](https://instagram.com/sudochef) on Instagram & TikTok
 
 ---
 
@@ -76,18 +75,16 @@ mission = "Make security tools accessible to people who actually need them."
 
 ---
 
-### 💡 Project Ideas I'm Building Toward
-*(fork one, build it yourself, tag me when you do)*
+### 💡 Current Project I'm Building
+*(fork one and tag me when you do)*
 
-```
-🕵🏽 OSINT People Search Tool        — learn recon by building a real framework
-🧠 AI Threat Summarizer            — feed it a CVE, get a plain-English threat brief  
-📡 Dark Web Exposure Monitor       — check if your data is out there (ethically)
-🔐 Password Strength Analyzer      — with actual attack simulation, not just color bars
-📰 Security News Sentiment Tracker — rate how scared the infosec community is today
-🤖 AI Red Team Assistant           — prompt-based attack scenario generator
-🗺️ Digital Footprint Mapper        — OSINT your own online presence
-```
+- 🕵🏽 **OSINT People Search Tool** — learn recon by building a real framework
+- 🧠 **AI Threat Summarizer** — feed it a CVE, get a plain-English threat brief
+- 📡 **Dark Web Exposure Monitor** — check if your data is out there (ethically)
+- 🔐 **Password Strength Analyzer** — with actual attack simulation, not just color bars
+- 📰 **Security News Sentiment Tracker** — rate how scared the infosec community is today
+- 🤖 **AI Red Team Assistant** — prompt-based attack scenario generator
+- 🗺️ **Digital Footprint Mapper** — OSINT your own online presence
 
 ---
 
