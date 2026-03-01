@@ -80,7 +80,7 @@ mission = "Make security tools accessible to people who actually need them."
 *(fork one, build it yourself, tag me when you do)*
 
 ```
-🕵🏽 OSINT People Search Tool      — learn recon by building a real framework
+🕵🏽 OSINT People Search Tool        — learn recon by building a real framework
 🧠 AI Threat Summarizer            — feed it a CVE, get a plain-English threat brief  
 📡 Dark Web Exposure Monitor       — check if your data is out there (ethically)
 🔐 Password Strength Analyzer      — with actual attack simulation, not just color bars
